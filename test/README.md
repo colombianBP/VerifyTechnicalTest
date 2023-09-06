@@ -1,0 +1,1 @@
+As proof of concept, *documents_to_processT.zip* was used as input, with its output in the *out* folder, this file includes unrelated PDF file in order to evaluate exclusion; unit tests are performed with *test_process.py* with its outputs stored in *test_process.log*
